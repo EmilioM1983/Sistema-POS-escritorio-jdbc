@@ -1,0 +1,32 @@
+**LICENCIA DE USO DEL SOFTWARE "SISTEMA DE VENTAS"**
+
+**Versión 1.0**
+
+**Derechos de Autor**
+Este software es propiedad de ehmSoft. Todos los derechos reservados.
+
+**Uso Permitido**
+Se otorga al usuario una licencia no exclusiva, intransferible y limitada para instalar y usar el software "Sistema de Ventas" en un único dispositivo para fines personales o comerciales internos.
+
+**Restricciones**
+1. No se permite modificar, descompilar, realizar ingeniería inversa o desensamblar el software.
+2. No se permite distribuir, sublicenciar, arrendar, alquilar o transferir el software a terceros sin autorización previa por escrito.
+3. No se permite eliminar ni alterar las notificaciones de derechos de autor o de propiedad incluidas en el software.
+
+**Garantía Limitada**
+El software se proporciona "tal cual" sin garantía de ningún tipo, expresa o implícita. El usuario asume todos los riesgos derivados de su uso.
+
+**Responsabilidad Limitada**
+En ningún caso, ehmSoft será responsable por daños indirectos, incidentales, especiales o consecuentes derivados del uso o la incapacidad de uso del software.
+
+**Duración**
+Esta licencia permanecerá vigente hasta que el usuario decida desinstalar el software o incumpla con los términos aquí establecidos. En caso de incumplimiento, la licencia será revocada de forma automática.
+
+**Contacto**
+Para preguntas o asistencia relacionada con este software, por favor comuníquese con emayer24@gmail.com o 3571574758.
+
+**Aceptación de Términos**
+El uso de este software implica la aceptación de los términos y condiciones de esta licencia.
+
+ehmSoft
+
